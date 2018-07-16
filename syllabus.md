@@ -1,17 +1,14 @@
 # LIS-590 DV 
 
-* Spring 2017
+* Fall 2018
 * LIS 46, Friday 10AM-1PM
 * 4 credit hours
 
-* Instructor: Matthew Turk
-* Email: mjturk@illinois.edu
+* Instructor: Imani Palmer
+* Email: ipalmer2@illinois.edu
 * Office: Room 222, LIS Building
 * Office Hour: Wednesday 2-4PM
 * Preferred Contact Method: email
-
-* Instructional Assistant: Jarai Carter
-* Email: carter31@illinois.edu
 
 * Jupyterhub Instance: https://lis590.ncsa.illinois.edu/
 * Slack Team: https://lis590dv-spr2017.slack.com/
