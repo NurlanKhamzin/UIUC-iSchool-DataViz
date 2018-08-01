@@ -1,4 +1,4 @@
-# Week 2 - Basics of Python and Plotting
+x# Week 2 - Basics of Python and Plotting
 
 This week was primarily a demonstration of basic git usage, 
 
