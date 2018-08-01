@@ -6,10 +6,18 @@ Introduction, Syllabus, Examples of Visualization, Demonstration of Basic Git Us
 
 The first lecture slides can be found in this directory (`Week01`).
 
+The example notebook is in this directory ('examples_week01.ipynb') and the
+dataset used in it can be found in this repository.
+
 ## Homework 0
 
-Submit helloworld.txt file to the github classroom
+Write and submit your own python program to the github classroom website.
+This program can do anything you want, but if you are new programming I
+recommend practicing the examples shown in the python notebook.
 
 ## Other Resources
 
-[Github Tutorial](https://try.github.io/)
+* [Github Tutorial](https://try.github.io/)
+* [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+* [Git basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Illinois Data](https://data.illinois.gov/)
