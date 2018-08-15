@@ -1,4 +1,4 @@
-x# Week 2 - Basics of Python and Plotting
+# Week 2 - Basics of Python and Plotting
 
 This week was primarily a demonstration of basic git usage, 
 
@@ -14,6 +14,8 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 
 ## Assignment
 
+* Create six visualizations using LA County Resturant Inspections 
+** 
  * Identify five quantitative visualizations
    * Cite each one
    * Three from media
