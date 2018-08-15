@@ -14,19 +14,17 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 
 ## Assignment
 
-* Create six visualizations using LA County Resturant Inspections 
-** 
- * Identify five quantitative visualizations
-   * Cite each one
-   * Three from media
-   * Two from academic literature (Science, Nature, etc)
- * Describe each component of the visualization
-   * Explain the story each visualization tells
-   * Suggest changes or improvements
- * Find the input data for one and recreate visualization
-   * Explain why you chose to change or retain aspects
-   * Full source code for your re-creation
-
+* Create six visualizations using [https://github.com/inp2/Data-Viz-Fall2018/blob/master/week02/la-county-restaurant-inspections.csv](LA County Resturant Inspections) that help answer the questions listed below?
+* Create a readme that also answer these questions
+* State whether your examined categorical or continuous data to answer the question
+* Upload code that you used to find answer/or for visualizations
+** Question 1: What is the average/mean score of the LA County Resturant Inspections?
+** Question 2: How many times was facility address 17660 CHATSWORTH ST visited?
+** Question 3: How many times was facility city LANCASTER visited?
+** Question 4: What percentage of times did employee EE0000145 visit any facility?
+** Question 5: What percentage of times was facility FA0013858 visited?
+** Question 6: What percentage of times did employee EE0000593 visit GRANADA HILLS?
+ 
 ## Other Resources
 
 * [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
