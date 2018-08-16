@@ -18,12 +18,12 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 * Create a readme that also answer these questions
 * State whether your examined categorical or continuous data to answer the question
 * Upload code that you used to find answer/or for visualizations
- * Question 1: What is the average/mean score of the LA County Resturant Inspections?
- * Question 2: How many times was facility address 17660 CHATSWORTH ST visited?
- * Question 3: How many times was facility city LANCASTER visited?
- * Question 4: What percentage of times did employee EE0000145 visit any facility?
- * Question 5: What percentage of times was facility FA0013858 visited?
- * Question 6: What percentage of times did employee EE0000593 visit GRANADA HILLS?
+  * Question 1: What is the average/mean score of the LA County Resturant Inspections?
+  * Question 2: How many times was facility address 17660 CHATSWORTH ST visited?
+  * Question 3: How many times was facility city LANCASTER visited?
+  * Question 4: What percentage of times did employee EE0000145 visit any facility?
+  * Question 5: What percentage of times was facility FA0013858 visited?
+  * Question 6: What percentage of times did employee EE0000593 visit GRANADA HILLS?
  
 ## Other Resources
 
