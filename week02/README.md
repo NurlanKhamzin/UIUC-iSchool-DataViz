@@ -14,7 +14,7 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 
 ## Homework 1
 
-* Create six visualizations using [https://github.com/inp2/Data-Viz-Fall2018/blob/master/week02/la-county-restaurant-inspections.csv](LA County Resturant Inspections) that help answer the questions listed below?
+* Create six visualizations using [LA County Resturant Inspections](https://github.com/inp2/Data-Viz-Fall2018/blob/master/week02/la-county-restaurant-inspections.csv) that help answer the questions listed below?
 * Create a readme that also answer these questions
 * State whether your examined categorical or continuous data to answer the question
 * Upload code that you used to find answer/or for visualizations
