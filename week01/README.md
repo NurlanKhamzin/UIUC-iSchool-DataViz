@@ -4,7 +4,7 @@ Introduction, Syllabus, Examples of Visualization, Demonstration of Basic Git Us
 
 ## Slides and Examples
 
-The first lecture slides can be found in this directory, [Google Slides](https://docs.google.com/presentation/d/1Ws10PxAt22Ro4uPXPiZa29fKdmD1-iAxlQKQv1V3nZg/edit?usp=sharing), [PDF].
+The first lecture slides can be found in this directory, [Google Slides](https://docs.google.com/presentation/d/1Ws10PxAt22Ro4uPXPiZa29fKdmD1-iAxlQKQv1V3nZg/edit?usp=sharing), [PDF](https://github.com/inp2/Data-Viz-Fall2018/blob/master/week01/Week%2001.pdf), [PPTX](https://github.com/inp2/Data-Viz-Fall2018/blob/master/week01/Week%2001.pptx).
 
 The example notebook is in this directory ('examples_week01.ipynb') and the
 dataset used in it can be found in this repository.
