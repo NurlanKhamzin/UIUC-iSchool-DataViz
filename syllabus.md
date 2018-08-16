@@ -5,7 +5,7 @@
 * Instructor: Imani Palmer
 * Email: ipalmer2@illinois.edu
 * Class Location: Room 222, LIS Building
-* Office Hour: Wednesday 2-4 PM
+* Office Hour: Tuesday 11:00 AM - 1:00 PM
 * Office Hour Location: 3105 Siebel Center
 * Preferred Contact Method: email
 * Slack Team: datavizuiucfall2018.slack.com
