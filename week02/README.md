@@ -12,7 +12,7 @@ The example notebook is in this directory (`examples_week02.ipynb`) and the
 dataset used in it can be found on the [data repository
 site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 
-## Assignment - Homework 1
+## Homework 1
 
 * Create six visualizations using [https://github.com/inp2/Data-Viz-Fall2018/blob/master/week02/la-county-restaurant-inspections.csv](LA County Resturant Inspections) that help answer the questions listed below?
 * Create a readme that also answer these questions
