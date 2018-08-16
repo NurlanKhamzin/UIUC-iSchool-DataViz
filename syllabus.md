@@ -2,12 +2,12 @@
 
 * Fall 2018
 * 
-* 4 credit hours
 
 * Instructor: Imani Palmer
 * Email: ipalmer2@illinois.edu
-* Office: Room 222, LIS Building
-* Office Hour: Wednesday 2-4PM
+* Class Location: Room 222, LIS Building
+* Office Hour: Wednesday 2-4 PM
+* Office Hour Location: 3105 Siebel Center
 * Preferred Contact Method: email
 
 * Jupyterhub Instance:
