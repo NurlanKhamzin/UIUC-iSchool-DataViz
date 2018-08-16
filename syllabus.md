@@ -8,9 +8,7 @@
 * Office Hour: Wednesday 2-4 PM
 * Office Hour Location: 3105 Siebel Center
 * Preferred Contact Method: email
-
-* Jupyterhub Instance:
-* Slack Team:
+* Slack Team: datavizuiucfall2018.slack.com
 
 # Course Description
 
