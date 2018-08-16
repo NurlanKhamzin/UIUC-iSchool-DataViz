@@ -1,7 +1,6 @@
 # LIS-590 DV 
 
 * Fall 2018
-* 
 
 * Instructor: Imani Palmer
 * Email: ipalmer2@illinois.edu
