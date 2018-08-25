@@ -30,7 +30,7 @@ In your write-up, you should provide a rigorous rationale for your design decisi
 
 Homework Creation Credit to: https://courses.cs.washington.edu/courses/cse512/14wi/a1.html
 
-### Homework 5 Dataset
+### Homework 5 [Dataset](https://github.com/inp2/Data-Viz-Fall2018/blob/master/week06/a1-burtin.csv)
 
 After the World War II, antibiotics were considered as "wonder drugs", since they were easy remedy for what had been intractable ailments. To learn which drug worked most effectively for which bacterial infection, performance of the three most popular antibiotics on 16 bacteria were gathered.
 
