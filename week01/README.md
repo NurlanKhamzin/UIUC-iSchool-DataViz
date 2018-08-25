@@ -9,7 +9,7 @@ The first lecture slides can be found in this directory, [Google Slides](https:/
 The example notebook is in this directory ('examples_week01.ipynb') and the
 dataset used in it can be found in this repository.
 
-## Homework 0
+## Homework 0 - Introduction
 
 Write and submit your own python program to the github classroom website.
 This program can do anything you want, but if you are new programming I
