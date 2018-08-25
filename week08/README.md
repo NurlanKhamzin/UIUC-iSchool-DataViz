@@ -17,7 +17,6 @@ I want you to use the data you have to investigate the question if the US (Senat
 starting to code. Further, try to adhere to the following principles in your visualization:
 1. Do not use more dimensions (color, shape, size, etc.) than you need. Having circles appear
 both larger and darker due to more divisiveness is redundant.
-Spring 2017 ORIE 5270
 2. Convey only relevant information – think of the message your graphic is meant to present;
 for each piece of information, ask yourself if the graphic would work equally well without!
 3. Make use of bokeh’s functionalities!
