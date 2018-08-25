@@ -15,9 +15,7 @@ The example notebook is in this directory (`examples_week04.ipynb`) and the
 dataset used in it can be found on the [data repository
 site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 
-## Assignment
+## Homework 3: Python Classes
+Create a python program with a python class that is able to represent each of the following:
+* Create a line plot showing the number of marriages and divorces per capita in the U.S. between 1867 and 2014
 
-The assignment for this week can be found in this directory, in
-`assignment_week04.ipynb`.  This assignment is available (and should be
-submitted through) `nbgrader` in the "Assignments" tab on your JupyterHub
-instance.
