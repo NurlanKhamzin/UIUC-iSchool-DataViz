@@ -18,4 +18,6 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
 ## Homework 3: Python Classes
 Create a python program with a python class that is able to represent each of the following:
 * Create a line plot showing the number of marriages and divorces per capita in the U.S. between 1867 and 2014
+    * Label both lines and show the legend
+*
 
