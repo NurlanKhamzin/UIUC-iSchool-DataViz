@@ -21,4 +21,3 @@ Create a python program with a python class that is able to represent each of th
     * Label both lines and show the legend
 * Create a line plot showing the number of marriages and divorces per capita in the U.S. between 1875 and 1881
    * Label both lines and show the legend
-
