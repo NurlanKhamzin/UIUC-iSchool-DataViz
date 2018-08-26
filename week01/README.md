@@ -1,4 +1,4 @@
-# Week 1 - Introduction
+# Week 1 - Introduction 
 
 Introduction, Syllabus, Examples of Visualization, Demonstration of Basic Git Usage
 
