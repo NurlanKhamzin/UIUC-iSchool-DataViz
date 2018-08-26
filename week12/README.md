@@ -1,12 +1,10 @@
-# Week 12 - Scientific Viz
+# Week 12 - Javascript
 
-This week we discussed scientific visualization, and explored using
-[yt](http://yt-project.org/) to visualize data.
+This week discuss all the javascript libraries for data visualizations
 
 ## Slides and Examples
 
-The slides for this week's lecture can be found in this directory (`lecture_week12.pdf`)
-and the original slides [are
-online](https://docs.google.com/presentation/d/1pRYQSiq8ukSeZwcEkg2qhxmDM5LTQWKmMmseAj6PBWA/edit).
 
-The notebook is in this directory (`examples_week12.ipynb`).
+## Homework 9 - Javascript Libraries and Data Visualization
+
+Choose a your own javascript library for visualize data
