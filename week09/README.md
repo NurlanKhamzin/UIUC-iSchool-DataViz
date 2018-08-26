@@ -1,4 +1,4 @@
-# Week 9 - Introduction to R
+# Week 9 - Knowing R
 
 
 
