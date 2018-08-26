@@ -219,7 +219,7 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
  * Week 14 (Nov 26th - Nov 30th): Full Stack Visualizations
  * Week 15 (Dec 4th - Dec 7th): Full Stack Visualizations
- * Week 16 (Dec 10th - Dec 14th): Full Stack Visualizations
+ * Week 16 (Dec 10th - Dec 14th): Final Project Presentations
 
 ### Other resources
 
