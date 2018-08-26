@@ -1,16 +1,6 @@
-# Week 2 - Basics of Python and Plotting
+# Week 2 - What is Data?
 
-This week was primarily a demonstration of basic git usage, 
-
-## Slides and Examples
-
-The slides for this week's lecture can be found in this directory (`lecture_week02.pdf`)
-and the original slides [are online](
-https://docs.google.com/presentation/d/1gZS3IBisIFCbEjkLIM3uxwJ6i8p-80n67l0pGnpFg0g/edit?usp=sharing).
-
-The example notebook is in this directory (`examples_week02.ipynb`) and the
-dataset used in it can be found on the [data repository
-site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
+This week was primarly about learning about different types of data and how to visualize them.
 
 ## Homework 1: What is data?
 
@@ -24,10 +14,4 @@ site](https://girder.hub.yt/#item/588b65a44085f90001229e98).
   * Question 4: What percentage of times did employee EE0000145 visit any facility?
   * Question 5: What percentage of times was facility FA0013858 visited?
   * Question 6: What percentage of times did employee EE0000593 visit GRANADA HILLS?
- 
-## Other Resources
 
-* [Basic git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
-* [Git basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* [Illinois Data](https://data.illinois.gov/)
-* [LIS590 Data](https://girder.hub.yt/#folder/588b650e4085f90001229e96)
