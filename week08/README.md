@@ -1,4 +1,4 @@
-# Week 8 - Pandas and Bokeh
+# Week 8 - Knowing Bokeh
 
 This week we had an introduction to Pandas and Bokeh.
 
