@@ -204,21 +204,22 @@ The course outline below is subject to some flexibilty; students will be
 encouraged to provide feedback on the topics covered, particularly toward
 the end.  Topics that are of particular interest will be emphasized.
 
- * Week 1 (Aug 27th - Aug 31st): Introduction, syllabus, examples of visualization, and installation of packages (jupyter notebook, & python) 
- * Week 2 (Sept 3rd - Sept 7th): Dealing with Data
- * Week 3 (Sept 10th - Sept 11th): Basic Principles of Data Visualzition
- * Week 4 (Sept 17th - Sept 21st): Simple Plotting: Quantitative Plots
- * Week 5 (Sept 24th - Sept 28th): Binning Filtering, Smoothing, Multiplots, Histograms, & Distributions
- * Week 6 (Oct 1st - Oct 5th): Images: color theory, colormaps, generating visualizations of images and image-like quantities
- * Week 7 (Oct 8th - Oct 12th): Geospatial visualizations
- * Week 8 (Oct 15th - Oct 19th): Synthesizing multiple datasets 
- * Week 8 (Oct 22nd - Oct 26th): Software ecosystem around visualization
- * Week 9 (Oct 29th - Nov 2nd): Network visualization
- * Week 10 (Nov 5th - Nov 9th): Statistical visualization
- * Week 11 (Nov 12th - Nov 16th): Interactive visualizations
- * Week 12 (Nov 19th - Nov 23rd): Thanksgiving Break
- * Week 13: (Nov 26th - Nov 30th): Advanced visualizations
- * Week 14 (Dec 4th - Dec 7th): Group presentations
+ * Week 1 (Aug 27th - Aug 31st): A Introduction to Everything
+ * Week 2 (Sept 3rd - Sept 7th): What is Data?
+ * Week 3 (Sept 10th - Sept 11th): Filtering, Smoothing/Binning, and Multiplots
+ * Week 4 (Sept 17th - Sept 21st): A Palette of Operations, and Python Classes
+ * Week 5 (Sept 24th - Sept 28th): Odds and Sods
+ * Week 6 (Oct 1st - Oct 5th): Types of Viz and Choosing Colors
+ * Week 7 (Oct 8th - Oct 12th): Comparisons, Compositions, and Time
+ * Week 8 (Oct 15th - Oct 19th): Knowing Bokeh
+ * Week 9 (Oct 22nd - Oct 26th): Knowing R
+ * Week 10 (Oct 29th - Nov 2nd): Knowing Tableau
+ * Week 11 (Nov 5th - Nov 9th): Knowing JavaScript
+ * Week 12 (Nov 12th - Nov 16th): Interactive visualizations
+ * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
+ * Week 14 (Nov 26th - Nov 30th): Advanced visualizations
+ * Week 15 (Dec 4th - Dec 7th):
+ * Week 16 (Dec 10th - Dec 14th): 
 
 ### Other resources
 
