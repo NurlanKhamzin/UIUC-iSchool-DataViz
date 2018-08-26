@@ -211,15 +211,15 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 5 (Sept 24th - Sept 28th): Odds and Sods
  * Week 6 (Oct 1st - Oct 5th): Types of Viz and Choosing Colors
  * Week 7 (Oct 8th - Oct 12th): Comparisons, Compositions, and Time
- * Week 8 (Oct 15th - Oct 19th): Knowing Bokeh
- * Week 9 (Oct 22nd - Oct 26th): Knowing R
- * Week 10 (Oct 29th - Nov 2nd): Knowing Tableau
- * Week 11 (Nov 5th - Nov 9th): Knowing JavaScript
- * Week 12 (Nov 12th - Nov 16th): Interactive visualizations
+ * Week 8 (Oct 15th - Oct 19th): Graph Visualizations
+ * Week 9 (Oct 22nd - Oct 26th): Knowing Bokeh
+ * Week 10 (Oct 29th - Nov 2nd): Knowing R
+ * Week 11 (Nov 5th - Nov 9th): Knowing Tableau
+ * Week 12 (Nov 12th - Nov 16th): Knowing JavaScript
  * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
- * Week 14 (Nov 26th - Nov 30th): Advanced visualizations
- * Week 15 (Dec 4th - Dec 7th):
- * Week 16 (Dec 10th - Dec 14th): 
+ * Week 14 (Nov 26th - Nov 30th): Full Stack Visualizations
+ * Week 15 (Dec 4th - Dec 7th): Full Stack Visualizations
+ * Week 16 (Dec 10th - Dec 14th): Full Stack Visualizations
 
 ### Other resources
 
