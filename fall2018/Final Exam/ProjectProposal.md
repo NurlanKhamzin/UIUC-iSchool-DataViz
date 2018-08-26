@@ -3,6 +3,10 @@ The proposal should include the names of the members of your group and a short (
 
 The repository is public by default so people can see your work. If you have any restriction such as data privacy, you can make it private. You can also make it private first and make it public once you finish. Please contact us as soon as possible if you can't access the GitHub org.
 
+## Project Requirements
+* Datasets must be larger than 10GB
+* Datasets variables must be both categorical and continuous
+                                                                                                      
 Your project proposal should answer the following questions/comments:
 
 1. What is your dataset?
@@ -20,3 +24,4 @@ Your project proposal should answer the following questions/comments:
 * What are you trying to highlight from your data?
 * What are your overall goals with this visualization?
 * Any possible problems/concerns do you have about accomplishing this task
+
