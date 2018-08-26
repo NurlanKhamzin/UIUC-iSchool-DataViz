@@ -1,10 +1,8 @@
-# Week 12 - Javascript
+# Week 12 - Review
 
-This week discuss all the javascript libraries for data visualizations
 
 ## Slides and Examples
 
+Review for Presentations
 
-## Homework 9 - Javascript Libraries and Data Visualization
-
-Choose a your own javascript library for visualize data
+## No homework
