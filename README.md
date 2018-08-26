@@ -1,4 +1,4 @@
-# LIS-590 DV 
+# University of Illinois at Urbana-Champaign Library and Information Science 590 Data Visualization 
 
 * Fall 2018
 
