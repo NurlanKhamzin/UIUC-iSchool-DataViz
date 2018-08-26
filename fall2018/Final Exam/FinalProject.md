@@ -4,7 +4,8 @@ A blogpost posted about your visualization, that can be posted anywhere you like
 
 ## Final Project Requirements
 
-* Dataset must be larger than 10 GB
+* Must have more than one dataset
+* Dataset must be larger than 5 GB
 * Datasets variables must be both categorical and continuous
 
 ## Questions/Comments
@@ -28,4 +29,5 @@ A blogpost posted about your visualization, that can be posted anywhere you like
 * What did you find easy about development?
 * What did you find difficul about development?
 * What would you have liked to change abou your visualization?
+* Did you find any evidence of bais in your dataset?
 * Feel free to add any other statements

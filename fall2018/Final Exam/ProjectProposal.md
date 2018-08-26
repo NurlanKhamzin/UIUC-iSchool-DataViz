@@ -4,7 +4,9 @@ The proposal should include the names of the members of your group and a short (
 The repository is public by default so people can see your work. If you have any restriction such as data privacy, you can make it private. You can also make it private first and make it public once you finish. Please contact us as soon as possible if you can't access the GitHub org.
 
 ## Project Requirements
-* Datasets must be larger than 10GB
+* Must work with more than one dataset
+  * If you have one dataset that examines marriages during the 1950s, have another dataset that looks at divorces during the 1950s
+* Datasets must be larger than 5GB
 * Datasets variables must be both categorical and continuous
                                                                                                       
 Your project proposal should answer the following questions/comments:
