@@ -208,13 +208,13 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 2 (Sept 3rd - Sept 7th): What is Data?
  * Week 3 (Sept 10th - Sept 11th): Filtering, Smoothing/Binning, and Multiplots
  * Week 4 (Sept 17th - Sept 21st): A Palette of Operations, and Python Classes
- * Week 5 (Sept 24th - Sept 28th): Odds and Sods
- * Week 6 (Oct 1st - Oct 5th): Types of Viz and Choosing Colors
- * Week 7 (Oct 8th - Oct 12th): Comparisons, Compositions, and Time
- * Week 8 (Oct 15th - Oct 19th): Graph Visualizations
- * Week 9 (Oct 22nd - Oct 26th): Knowing Bokeh
- * Week 10 (Oct 29th - Nov 2nd): Knowing R
- * Week 11 (Nov 5th - Nov 9th): Knowing Tableau
+ * Week 5 (Sept 24th - Sept 28th): Types of Viz and Choosing Colors
+ * Week 6 (Oct 1st - Oct 5th): Comparisons, Compositions, and Time
+ * Week 7 (Oct 8th - Oct 12th): Graph Visualizations
+ * Week 8 (Oct 15th - Oct 19th): Knowing Bokeh
+ * Week 9 (Oct 22nd - Oct 26th): Knowing R
+ * Week 10 (Oct 29th - Nov 2nd): Knowing Tableau
+ * Week 11 (Nov 5th - Nov 9th): Knowing JavaScript
  * Week 12 (Nov 12th - Nov 16th): Knowing JavaScript
  * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
  * Week 14 (Nov 26th - Nov 30th): Full Stack Visualizations
