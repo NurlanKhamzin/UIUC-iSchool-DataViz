@@ -1,17 +1,8 @@
 # Week 8 - Knowing Bokeh
 
-This week we had an introduction to Pandas and Bokeh.
+This week we had an introduction to Bokeh.
 
-## Slides and Examples
-
-The slides for this week's lecture can be found in this directory (`lecture_week08.pdf`)
-and the original slides [are
-online](https://docs.google.com/presentation/d/1A9uDN0FtRIW7vJvNekHRxxr4LHU-AyVJDU3ahjAiRPg/edit).
-
-There are three notebooks in this directory; one is about pandas, and two are
-about bokeh.
-
-## Homework 7: Playing with Bokeh
+## Homework 5: Playing with Bokeh
 
 I want you to use the data you have to investigate the question if the US (Senate) is the most divided it has ever been, as was reported by Forbes in 2013. While there may be no right or wrong answer to this question, there certainly are wrong ways of answering the question. If you are unsure about what trends you want to show, talk to me before
 starting to code. Further, try to adhere to the following principles in your visualization:

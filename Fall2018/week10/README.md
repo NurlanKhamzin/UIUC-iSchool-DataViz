@@ -2,4 +2,4 @@
 
 This week, Jarai presented on Tableau.
 
-# Homework 9: Knowing Tableau
+# Homework 7: Knowing Tableau
