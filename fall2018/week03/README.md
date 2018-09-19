@@ -6,8 +6,6 @@ multiplots.
 ## Homework 2: Multiplots
 
 * Build a multiplot that answers these three questions
-  * How many people have been killed?
-  * How many people have been injured?
-  * How many people were injured between January 1st, 2013 - Feburary 1st 2013?
-  * What percentage of congressional districts were involved in the gun violence data?
-  * Where we the locations of the top 10 highest number of injuries?
+  * How many people have been killed on each day between Jan 1st, 2013 - Feb 1st, 2013?
+  * How many people have been injured on each day between Jan 1st, 2013 - Feb 1st, 2013
+  * How many people have been killed in each state?
