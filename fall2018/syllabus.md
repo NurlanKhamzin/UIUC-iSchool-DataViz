@@ -211,11 +211,11 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 5 (Sept 24th - Sept 28th): Types of Viz and Choosing Colors
  * Week 6 (Oct 1st - Oct 5th): Four Basic Methods of Visual Data Analysis
  * Week 7 (Oct 8th - Oct 12th): Knowing Bokeh
- * Week 8 (Oct 15th - Oct 19th): Knowing Bokeh 
- * Week 9 (Oct 22nd - Oct 26th): Network Graph Visualizations
- * Week 10 (Oct 29th - Nov 2nd): Knowing R
- * Week 11 (Nov 5th - Nov 9th): Knowing Tableau
- * Week 12 (Nov 12th - Nov 16th): Exploratory Data Analysis
+ * Week 8 (Oct 15th - Oct 19th): Network Graph Visualizations
+ * Week 9 (Oct 22nd - Oct 26th): Knowing R
+ * Week 10 (Oct 29th - Nov 2nd): Knowing Tableau
+ * Week 11 (Nov 5th - Nov 9th): Exploratory Data Analysis
+ * Week 12 (Nov 12th - Nov 16th): Interactive Data Visualizations
  * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
  * Week 14 (Nov 26th - Nov 30th): Kaggle Competition
  * Week 15 (Dec 4th - Dec 7th): Kaggle Competition
