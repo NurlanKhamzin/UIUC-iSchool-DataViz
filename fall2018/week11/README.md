@@ -1,10 +1,6 @@
-# Week 11 - Javascript
+# Week 11 - Kaggle Data Visualization Competition
 
-This week discuss all the javascript libraries for data visualizations
+This week we will work in groups and rely on javascript to build data visualizations.
 
-## Slides and Examples
+## In-Class Group Project
 
-
-## Homework 10 - Javascript Libraries and Data Visualization
-
-Choose a your own javascript library for visualize data

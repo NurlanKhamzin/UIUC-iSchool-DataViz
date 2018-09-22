@@ -215,11 +215,11 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 9 (Oct 22nd - Oct 26th): Network Graph Visualizations
  * Week 10 (Oct 29th - Nov 2nd): Knowing R
  * Week 11 (Nov 5th - Nov 9th): Knowing Tableau
- * Week 12 (Nov 12th - Nov 16th): Knowing JavaScript
+ * Week 12 (Nov 12th - Nov 16th): Exploratory Data Analysis
  * Week 13 (Nov 19th - Nov 23rd): Thanksgiving Break
- * Week 14 (Nov 26th - Nov 30th): Full Stack Visualizations
- * Week 15 (Dec 4th - Dec 7th): Full Stack Visualizations
- * Week 16 (Dec 10th - Dec 14th): Full Stack Visualizations
+ * Week 14 (Nov 26th - Nov 30th): Kaggle Competition
+ * Week 15 (Dec 4th - Dec 7th): Kaggle Competition
+ * Week 16 (Dec 10th - Dec 14th): Class Presentations
 
 ### Other resources
 
