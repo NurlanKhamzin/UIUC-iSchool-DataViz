@@ -31,4 +31,7 @@ Three CSV files for complete election results for the national assembly of Pakis
 
 4. Tackle any of the ideas listed from a data visualization standpoint
 
-5. We will present the visualizations after class
+5. Write up a quick mock-up surrounding your exploratory data analysis and data visualizations
+* Consider adding this to kaggle or github
+
+6. We will present the visualizations after class
