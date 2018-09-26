@@ -5,7 +5,7 @@ examples were just getting us started with plotting volume and image data.
 
 ## Homework 4: Project Proposal/Group Formation
 
-The proposal should include the names of the members of your group and a short (1 to 2 paragraph) description of the visualization problem you plan to address. You should work in teams of at least two people for this assignment. You may not work in groups larger than 4 people. If you are looking for project partners, please post on slack in the teams section.
+The proposal should include the names of the members of your group and a short (1 to 2 page(s)) description of the visualization problem you plan to address. You should work in teams of at least two people for this assignment. You may not work in groups larger than 4 people. If you are looking for project partners, please post on slack in the teams section.
 
 More information can be found in the Final Exam folder.
 
