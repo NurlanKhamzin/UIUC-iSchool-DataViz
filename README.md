@@ -209,7 +209,7 @@ the end.  Topics that are of particular interest will be emphasized.
  * Week 3 (Sept 10th - Sept 11th): Filtering, Smoothing/Binning, and Multiplots
  * Week 4 (Sept 17th - Sept 21st): A Palette of Operations, and Python Classes
  * Week 5 (Sept 24th - Sept 28th): Types of Viz and Choosing Colors
- * Week 6 (Oct 1st - Oct 5th): Comparisons, Compositions, and Time
+ * Week 6 (Oct 1st - Oct 5th): Four Basic Methods of Visual Data Analysis
  * Week 7 (Oct 8th - Oct 12th): Graph Visualizations
  * Week 8 (Oct 15th - Oct 19th): Knowing Bokeh
  * Week 9 (Oct 22nd - Oct 26th): Knowing R
